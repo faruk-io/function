@@ -1,0 +1,12 @@
+def function(x,y):
+    return x*y
+result = function(10, 2)
+print('Result 1:',result)
+
+
+result = function(20, 2)
+print('Result 2:',result)
+
+
+result = function(30, 2)
+print('Result 3:',result)
